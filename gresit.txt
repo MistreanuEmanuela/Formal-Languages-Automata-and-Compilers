@@ -1,0 +1,91 @@
+int a;
+int b[5];
+char c;
+bool da;
+string r;
+da->true;
+const int y;
+float fr;
+float g(string ama)
+{
+ int ar;
+ ar->1;
+ if(ar<5)
+ {
+ ar->0;
+ };
+ return ar;
+ }
+int f(int ab , int ba)
+{ 
+  int i;
+  int n;
+  n->0;
+  for(n->0 ; n<3; n->n+1 )
+  {
+   i->0;
+   };
+  return i;   
+ }
+
+ clasa elev
+ {
+  string nume;
+  int varsta;
+  int q[3];
+  };
+  y->2;
+  elev.nume->"ana";
+  b[1]->5;
+  b[2]->6;
+  b[3]->4;
+  elev.q[2]->b[1];
+  elev.q[2]->f(b[1]; b[2]);
+  f(b[1]; b[3]);
+  a->5;
+   b[4]->f(2;3);
+  while(a<7)
+  {
+   a->a+1;
+   };
+   begin_progr
+   {
+  
+   fr->1,2;
+   r->"mere";
+   int po;
+   int w[2];
+   y->3;
+    f(2);
+   f(elev.nume; 2);
+   a->1,2;
+   b[1]->elev.q[1];
+   b[1]->w[1];
+   b[1]->po;
+  
+  
+   elev.q[2]->3,14;
+   
+   a->1,2+1;
+   int r;
+   ana(2;3);
+   mere->5;
+   eval("Ana");
+    y->3;
+   TypeOf("ana"+2);
+   
+   TypeOf(a);
+   TypeOf(1,2);
+   TypeOf("ana"); 
+   TypeOf(elev.nume);
+   TypeOf(da);
+   TypeOf(f(2;3));
+   eval(f(2;3)+2*5);
+   int u;
+   bool ra;
+   ra-> b[1]<b[2];
+   u->f(f(3;4) ;2);
+   eval(f(f(3;4) ;2));
+   eval(elev.q[2]+2-3+6*3);
+   end_progr
+   }
